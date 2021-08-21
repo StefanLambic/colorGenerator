@@ -1,1 +1,4 @@
-# colorGenerator
+- The name of this project is colorGenerator.
+- Every time you click the bordered text on the screen, the background color will be randomly changed and Hexadecimal color name will be displayed above the initial text.
+- The project was made using JavaScript programming language. Besides JavaScript, i used HTML (for structure) - in this case for wrapper and bit of CSS (for styling).
+- This project is yet another one with which i practiced my JavaScript knowledge.
