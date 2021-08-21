@@ -1,0 +1,38 @@
+/*GLOBAL SETTINGS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: hsl(168, 56%, 26%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  align-self: center;
+}
+.wrapper span,
+.wrapper button {
+  display: block;
+}
+.wrapper span {
+  color: #ffff;
+  font-size: 3.75rem;
+  text-transform: uppercase;
+}
+/* BUTTON*/
+.wrapper button {
+  background: none;
+  border: 3px solid #ffff;
+  padding: 10px 20px;
+  color: #ffff;
+  font-size: 2.25rem;
+  margin-top: 10px;
+  outline: none;
+  cursor: pointer;
+}
